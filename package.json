@@ -1,6 +1,7 @@
 {
   "name": "demo-font-awesome-react-dynamic-import",
   "version": "0.1.0",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
